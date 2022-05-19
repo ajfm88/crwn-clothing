@@ -1,11 +1,10 @@
-# Crwn-Clothing is an application built on React.js
+# Crwn-Clothing eCommerce App built on React
 
 <p align="center">
 
 <img alt="language count" src="https://img.shields.io/github/languages/count/francianepovoa/crwn-clothing?style=plastic">
 <img alt="top language" src="https://img.shields.io/github/languages/top/francianepovoa/crwn-clothing?style=plastic">
 <img alt="last commit" src="https://img.shields.io/github/last-commit/francianepovoa/crwn-clothing">
-<img alt="repo size" src="https://img.shields.io/github/repo-size/francianepovoa/crwn-clothing">
 </p>
 
 <p align="center"> 
@@ -114,7 +113,7 @@ Set the `publishableKey` variable in the `stripe-button.component.jsx` with your
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/francianepovoa/crwn-clothing.git
+$ git clone https://github.com/ajfm88/crwn-clothing.git
 
 $ cd crwn-clothing
 
