@@ -1,4 +1,4 @@
-# Crwn-Clothing eCommerce App built on React
+# 👑 Crwn-Clothing 👚 eCommerce App built on React
 
 <p align="center">
 
