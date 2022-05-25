@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- [Live Demo](https://crwn-clothing-ajfm88.netlify.app/)
+  <a href="https://crwn-clothing-ajfm88.netlify.app/">Live Demo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 ## 👨🏻‍💻 About the project
